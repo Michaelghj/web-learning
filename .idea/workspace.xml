@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mmall:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c826724-6b6f-433e-9564-a3a2a8f0f4b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arithmetic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arithmetic/src/com/ghj/myoffer/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arithmetic/src/com/ghj/myoffer/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/InsterionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cakeshop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cakeshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaCoursrFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideoFatory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/factorymethod/javaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design_pattern/src/com/laogao/design/pattern/creational/simplefactory/javaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/pojo/Logs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/pojo/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/service/GuestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/service/imp/GuestServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/page/regist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/page/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-cli-demo/vue-cli-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/.idea/vue-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/hello6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-demo/vue-demo/vue-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-gateway/ly-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-gateway/src/main/java/com/leyou/gateway/lyGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-interface/ly-item-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/ly-item-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/ly-item.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-item/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-registry/lyregistry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-registry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-registry/src/main/java/com/leyou/LyRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/ly-registry/src/main/resources/appliction.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mmall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mmall.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mmall/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mmall/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mmall/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_api_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_api_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_manager_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_manager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__com_alibaba_druid_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_orm_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/src/com/ghj/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/src/com/ghj/reflect/ReflectDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/java/com/shop/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-model/src/main/java/com/xzy/items/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/imp/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/test/test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/spring-demo02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/imp/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/test/test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-demo/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-demo/lib/jedis-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume/img/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resume/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/resource/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\package\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mmall" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mmall:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mmall_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_31_mmall" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56951" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mmall:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/mmall_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mmall:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mmall_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mmall" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56951" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mmall:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c826724-6b6f-433e-9564-a3a2a8f0f4b3" name="Default Changelist" comment="" />
+      <created>1563869272230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563869272230</updated>
+      <workItem from="1563869278179" duration="1699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1699000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitigenre">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
