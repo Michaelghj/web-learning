@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MybatisGeneratorXml" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
+    <inspection_tool class="SpringXmlModelInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="XmlPathReference" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
